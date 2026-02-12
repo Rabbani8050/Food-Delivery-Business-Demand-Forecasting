@@ -107,7 +107,7 @@ This project demonstrates how food delivery data can be effectively used to **fo
 
 ## 👨‍💻 Author
 
-**Faiz Raza**
+**Rabbani Holi**
 Data Science & Machine Learning
 
 🔗 GitHub: [https://github.com/Razafaaiz](https://github.com/Razafaaiz)
@@ -115,6 +115,7 @@ Data Science & Machine Learning
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
+
 
 
 
