@@ -110,11 +110,11 @@ This project demonstrates how food delivery data can be effectively used to **fo
 **Rabbani Holi**
 Data Science & Machine Learning
 
-🔗 GitHub: [https://github.com/Razafaaiz](https://github.com/Razafaaiz)
 
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
+
 
 
 
